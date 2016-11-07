@@ -39,10 +39,7 @@ import javax.swing.SwingUtilities;
 import model.Usuario;
 import model.Util;
 
-/**
- *
- * @author jefferson
- */
+
 public class FrmLoginBiometria extends javax.swing.JFrame {
 
     CtrBuscarUsuario ctrBuscarUsuario;

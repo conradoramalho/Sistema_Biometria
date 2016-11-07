@@ -11,10 +11,6 @@ import model.Usuario;
 import model.Util;
 import org.hibernate.HibernateException;
 
-/**
- *
- * @author jefferson
- */
 public class CtrBuscarUsuario {
 
     DaoUsuario acessohibernateuser;
